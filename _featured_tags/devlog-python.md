@@ -1,8 +1,8 @@
 ---
 layout: tag-blog
-title: Food
-slug: food
-category: review
+title: Python
+slug: python
+category: devlog
 menu: false
 order: 2
 ---

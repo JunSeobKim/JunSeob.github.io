@@ -1,11 +1,10 @@
 ---
 layout: list
-title: Devlog
-slug: devlog
+title: Study
+slug: study
 menu: true
 submenu: true
-order: 4
+order: 3
 description: >
-  응용, 개발 관련
-
+  기초 공부
 ---

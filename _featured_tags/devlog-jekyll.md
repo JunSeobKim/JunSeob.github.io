@@ -4,5 +4,6 @@ title: Jekyll
 slug: jekyll
 category: devlog
 menu: false
-order: 3
+order: 1
+header-img: "/img/jekyll.png"
 ---
