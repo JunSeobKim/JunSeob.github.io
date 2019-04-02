@@ -8,7 +8,7 @@ isme2n:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             |
-    적고싶은거 적는 곳
+    적고싶은거 적는 블로그.
 
   # This photo will be used in the about section
   picture:
