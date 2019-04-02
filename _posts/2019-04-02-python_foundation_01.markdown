@@ -3,7 +3,7 @@ layout: post
 title:  "파이썬 기초 01"
 subtitle:   "파이썬 기초 01"
 categories: study
-tags: Python_Foundation
+tags: python
 ---
 
 ## 파이썬
