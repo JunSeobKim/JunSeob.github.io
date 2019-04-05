@@ -38,7 +38,7 @@ print(tf.__version__)
 ~~~
 결과
 
-![결과](https://drive.google.com/uc?id=1EXsUjGnJ-2CdqIxp67CaV5pX38YFl5Mq) {:.alignleft}
+![결과](https://drive.google.com/uc?id=1EXsUjGnJ-2CdqIxp67CaV5pX38YFl5Mq "folat:left")
 
 우선 이번 예제에서 쓸 라이브러리들을 임포트 해줍니다.
 `matplotlib`는 파이썬에서 자료를 ``시각화(visulaization)``하는 패키지입니다.
