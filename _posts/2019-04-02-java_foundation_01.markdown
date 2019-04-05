@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "자바란?"
-subtitle:   "자바란?"
+title:  "파이썬이란?"
+subtitle:   "파이썬이란?"
 categories: study
-tags: java_foundation
+tags: python_foundation
 ---
 
-이 페이지에서는 자바 기초에 대한 내용을 다루게 됩니다.
+이 페이지에서는 파이썬 기초에 대한 내용을 다루게 됩니다.

@@ -1,7 +1,7 @@
 ---
 layout: tag-blog
-title: Java_Foundation
-slug: java_foundation
+title: Python_Foundation
+slug: python_foundation
 category: study
 menu: false
 order: 1
