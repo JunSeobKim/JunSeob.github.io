@@ -35,7 +35,7 @@ import matplotlib.pyplot as plt
 # tensorflow의 버전 확인
 print(tf.__version__)
 ~~~
-<center>###결과</center>
+### <center>결과</center>
 
 ![결과](https://drive.google.com/uc?id=1EXsUjGnJ-2CdqIxp67CaV5pX38YFl5Mq)
 
