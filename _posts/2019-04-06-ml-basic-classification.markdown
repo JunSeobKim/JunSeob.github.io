@@ -18,8 +18,6 @@ tags: machine_learning basic_classification
 
 이 예제는 텐서플로우 튜토리얼 Basic classification을 바탕으로 학습하는 예제입니다.
 
-예제본문 <https://www.tensorflow.org/tutorials/keras/basic_classification>
-
 ---
 ## 라이브러리 임포트 하기
 
@@ -37,7 +35,7 @@ import matplotlib.pyplot as plt
 # tensorflow의 버전 확인
 print(tf.__version__)
 ~~~
-###<center>결과</center>
+<center>###결과</center>
 
 ![결과](https://drive.google.com/uc?id=1EXsUjGnJ-2CdqIxp67CaV5pX38YFl5Mq)
 
