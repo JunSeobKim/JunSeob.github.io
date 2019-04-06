@@ -92,7 +92,7 @@ print(test_images.shape)
 
 print(len(test_labels))
 ~~~
-###<center>결과</center>
+### <center>결과</center>
 
 ![데이터 shape](https://drive.google.com/uc?id=1ZcIJrB9jNSx3ug_Wqqaq4p6nu7ZvZHLj)
 
@@ -118,7 +118,7 @@ for i in [0, 30000, 59999]:
     plt.grid(False)
     plt.show()
 ~~~
-###<center>결과</center>
+### <center>결과</center>
 
 ![0번 이미지](https://drive.google.com/uc?id=13BYqWEaihFC19u4ga6J_3X-ZlHFmMIc-)
 ![중간 이미지](https://drive.google.com/uc?id=1oiaRK2Us52w16BcGU3t7-WvtLAWe4zH7)
@@ -147,7 +147,7 @@ for i in range(25):
     plt.xlabel(class_names[train_labels[i]])
 plt.show()
 ~~~
-###<center>결과</center>
+### <center>결과</center>
 
 ![25개의 이미지](https://drive.google.com/uc?id=1knMwUXYGf_62I0pPBB2rgNAjLwXHbQxa)
 
