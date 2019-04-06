@@ -4,6 +4,7 @@ title:  "머신러닝 예제 : 기초적인 분류 문제"
 subtitle:   "머신러닝 기초"
 categories: devlog
 tags: machine_learning basic_classification
+comments: true
 ---
 ---
 이번 포스팅에서는 코딩기초학습의 Hello World가 있는 것처럼 머신러닝의 Hello World를 예제를 통해 다루겠습니다.
